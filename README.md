@@ -41,7 +41,6 @@ We have:
 - LSTM networks for long-term trend forecasting.
 
 ## Authors
-- **Ms. Sakshi** 
 - **Ankit Sharma** 
 - **Ravi** 
 - **Tejas Asthana** 
