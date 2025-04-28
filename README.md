@@ -7,6 +7,9 @@ We have:
 - Built predictive models using **Random Forest** for **feature selection**.
 - Implemented **Long Short-Term Memory (LSTM)** networks for **long-term trend forecasting**.
 
+## Language:
+-Python
+
 ## Objectives
 - Perform Exploratory Data Analysis (EDA) to understand climate and biodiversity data.
 - Preprocess and engineer relevant features.
