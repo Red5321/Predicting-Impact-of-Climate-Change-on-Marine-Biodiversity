@@ -33,3 +33,16 @@ We have:
 - Reusable Python scripts (optional).
 - Visualizations and generated reports.
 
+## Methods and Models Used
+- Random Forest for feature selection.
+- LSTM networks for long-term trend forecasting.
+
+## Authors
+
+- **Ankit Sharma** 
+- **Ravi** 
+- **Tejas Asthana** 
+
+## Supervisor
+
+- **Ms. Sakshi **  
